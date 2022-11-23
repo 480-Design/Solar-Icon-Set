@@ -1,0 +1,15 @@
+{
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "module": "CommonJS",
+    "jsx": "react",
+    "allowJs": true,
+    "moduleResolution": "node",
+    "declaration": true,
+    "strict": true
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "name": "solar-icon-set",
+  "version": "1.0.0",
+  "description": "Solar Icon Set in react",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "icons": "ts-node ./src/generate.ts",
+    "prepublish": "tsc"
+  },
+  "exports": {
+    ".": "./dist/index.js",
+    "./package.json": "./package.json",
+    "./messagesconversation": "./dist/icons/MessagesConversation",
+    "./arrows": "./dist/icons/Arrows",
+    "./maplocation": "./dist/icons/MapLocation",
+    "./videoaudiosound": "./dist/icons/VideoAudioSound",
+    "./money": "./dist/icons/Money",
+    "./electronicdevices": "./dist/icons/ElectronicDevices",
+    "./weather": "./dist/icons/Weather",
+    "./files": "./dist/icons/Files",
+    "./astronomy": "./dist/icons/Astronomy",
+    "./folders": "./dist/icons/Folders",
+    "./facesemotionsstickers": "./dist/icons/FacesEmotionsStickers",
+    "./sports": "./dist/icons/Sports",
+    "./search": "./dist/icons/Search",
+    "./time": "./dist/icons/Time",
+    "./list": "./dist/icons/List",
+    "./essentionalui": "./dist/icons/EssentionalUi",
+    "./call": "./dist/icons/Call",
+    "./medicine": "./dist/icons/Medicine",
+    "./homefurniture": "./dist/icons/HomeFurniture",
+    "./networkitprogramming": "./dist/icons/NetworkItProgramming",
+    "./settingsfinetuning": "./dist/icons/SettingsFineTuning",
+    "./textformatting": "./dist/icons/TextFormatting",
+    "./businessstatistic": "./dist/icons/BusinessStatistic",
+    "./shoppingecommerce": "./dist/icons/ShoppingEcommerce",
+    "./naturetravel": "./dist/icons/NatureTravel",
+    "./school": "./dist/icons/School",
+    "./designtools": "./dist/icons/DesignTools",
+    "./foodkitchen": "./dist/icons/FoodKitchen",
+    "./like": "./dist/icons/Like",
+    "./arrowsaction": "./dist/icons/ArrowsAction",
+    "./notes": "./dist/icons/Notes",
+    "./notifications": "./dist/icons/Notifications",
+    "./security": "./dist/icons/Security",
+    "./users": "./dist/icons/Users",
+    "./buildinginfrastructure": "./dist/icons/BuildingInfrastructure",
+    "./hands": "./dist/icons/Hands",
+    "./transportpartsservice": "./dist/icons/TransportPartsService"
+  },
+  "typesVersions": {
+    "*": {
+      ".": [
+        "dist/index.d.ts"
+      ],
+      "messagesconversation": [
+        "dist/icons/MessagesConversation/index.d.ts"
+      ],
+      "arrows": [
+        "dist/icons/Arrows/index.d.ts"
+      ],
+      "maplocation": [
+        "dist/icons/MapLocation/index.d.ts"
+      ],
+      "videoaudiosound": [
+        "dist/icons/VideoAudioSound/index.d.ts"
+      ],
+      "money": [
+        "dist/icons/Money/index.d.ts"
+      ],
+      "electronicdevices": [
+        "dist/icons/ElectronicDevices/index.d.ts"
+      ],
+      "weather": [
+        "dist/icons/Weather/index.d.ts"
+      ],
+      "files": [
+        "dist/icons/Files/index.d.ts"
+      ],
+      "astronomy": [
+        "dist/icons/Astronomy/index.d.ts"
+      ],
+      "folders": [
+        "dist/icons/Folders/index.d.ts"
+      ],
+      "facesemotionsstickers": [
+        "dist/icons/FacesEmotionsStickers/index.d.ts"
+      ],
+      "sports": [
+        "dist/icons/Sports/index.d.ts"
+      ],
+      "search": [
+        "dist/icons/Search/index.d.ts"
+      ],
+      "time": [
+        "dist/icons/Time/index.d.ts"
+      ],
+      "list": [
+        "dist/icons/List/index.d.ts"
+      ],
+      "essentionalui": [
+        "dist/icons/EssentionalUi/index.d.ts"
+      ],
+      "call": [
+        "dist/icons/Call/index.d.ts"
+      ],
+      "medicine": [
+        "dist/icons/Medicine/index.d.ts"
+      ],
+      "homefurniture": [
+        "dist/icons/HomeFurniture/index.d.ts"
+      ],
+      "networkitprogramming": [
+        "dist/icons/NetworkItProgramming/index.d.ts"
+      ],
+      "settingsfinetuning": [
+        "dist/icons/SettingsFineTuning/index.d.ts"
+      ],
+      "textformatting": [
+        "dist/icons/TextFormatting/index.d.ts"
+      ],
+      "businessstatistic": [
+        "dist/icons/BusinessStatistic/index.d.ts"
+      ],
+      "shoppingecommerce": [
+        "dist/icons/ShoppingEcommerce/index.d.ts"
+      ],
+      "naturetravel": [
+        "dist/icons/NatureTravel/index.d.ts"
+      ],
+      "school": [
+        "dist/icons/School/index.d.ts"
+      ],
+      "designtools": [
+        "dist/icons/DesignTools/index.d.ts"
+      ],
+      "foodkitchen": [
+        "dist/icons/FoodKitchen/index.d.ts"
+      ],
+      "like": [
+        "dist/icons/Like/index.d.ts"
+      ],
+      "arrowsaction": [
+        "dist/icons/ArrowsAction/index.d.ts"
+      ],
+      "notes": [
+        "dist/icons/Notes/index.d.ts"
+      ],
+      "notifications": [
+        "dist/icons/Notifications/index.d.ts"
+      ],
+      "security": [
+        "dist/icons/Security/index.d.ts"
+      ],
+      "users": [
+        "dist/icons/Users/index.d.ts"
+      ],
+      "buildinginfrastructure": [
+        "dist/icons/BuildingInfrastructure/index.d.ts"
+      ],
+      "hands": [
+        "dist/icons/Hands/index.d.ts"
+      ],
+      "transportpartsservice": [
+        "dist/icons/TransportPartsService/index.d.ts"
+      ]
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/480-Design/Solar-Icon-Set.git"
+  },
+  "keywords": [
+    "Solar",
+    "Icon",
+    "Set",
+    "react",
+    "pack"
+  ],
+  "author": "chebarash (https://github.com/chebarash)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/480-Design/Solar-Icon-Set/issues"
+  },
+  "homepage": "https://github.com/480-Design/Solar-Icon-Set#readme",
+  "dependencies": {
+    "@svgr/core": "^6.5.1",
+    "@svgr/plugin-jsx": "^6.5.1",
+    "@svgr/plugin-svgo": "^6.5.1",
+    "@types/node": "^18.11.9",
+    "@types/react": "^18.0.25",
+    "axios": "^1.1.3",
+    "dotenv": "^16.0.3",
+    "figma-api": "^1.11.0",
+    "react": "^18.2.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.3"
+  }
+}

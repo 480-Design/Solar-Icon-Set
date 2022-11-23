@@ -1,0 +1,15 @@
+export { default as CloudFile } from "./CloudFile";
+export { default as CodeFile } from "./CodeFile";
+export { default as FigmaFile } from "./FigmaFile";
+export { default as File } from "./File";
+export { default as FileCheck } from "./FileCheck";
+export { default as FileCorrupted } from "./FileCorrupted";
+export { default as FileDownload } from "./FileDownload";
+export { default as FileFavourite } from "./FileFavourite";
+export { default as FileLeft } from "./FileLeft";
+export { default as FileRemove } from "./FileRemove";
+export { default as FileRight } from "./FileRight";
+export { default as FileSend } from "./FileSend";
+export { default as FileSmile } from "./FileSmile";
+export { default as FileText } from "./FileText";
+export { default as ZIPFile } from "./ZIPFile";
