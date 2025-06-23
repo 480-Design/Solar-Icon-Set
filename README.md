@@ -28,6 +28,7 @@ We would absolutely love you using this pack in Your projects! Share these cool 
 ## We are also in the
 * [Figma](https://www.figma.com/@480design)
 * [Telegram](https://t.me/Design480)
-* [Instagram](https://www.instagram.com/480_design/)
-* [Boosty](https://boosty.to/480design)
+
+## Contact author
+t.me/tierohnenation 
 
